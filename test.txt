@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2413-F8AE
+
+ Directory of C:\Users\katta\Desktop\my project
+
+01/13/2020  04:31 PM    <DIR>          .
+01/13/2020  04:31 PM    <DIR>          ..
+01/13/2020  04:31 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144,617,058,304 bytes free
